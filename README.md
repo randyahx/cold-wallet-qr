@@ -1,1 +1,0 @@
-An airgapped cold wallet that returns a QR code with signed transaction.  
